@@ -1,10 +1,9 @@
-# PvZ2C bypass binding limit patch
-This is a repo for apks of PvZ2C from different providers with bypass binding limit patch built-in. To download patch, navigate to [releases](https://github.com/CyberSteve777/pvz2c_bypass_binding_limit_patch/releases) page.
+# PvZ2C Recrafted
+This is a repo for apks of PvZ2C from different providers with bypass 12 hours cooldown patch built-in. To download patch, navigate to [releases](https://github.com/CyberSteve777/pvz2c_recrafted/releases) page.
 
 For base game download mirror, visit [this](https://github.com/Archiver2c/pvz2c-mirror/releases) repository.
 
-Notes: 
-- You have to delete your current instance of the game before installing these apks, and it will count towards binding 4 devices per year. However, future updates won't increase counter, if updating from previous version by me.
-- Currently it works only with 64 bit devices, the patch doesn't apply to 32 bit devices.
+Note:
+- there's another patch built in - you can get your pp.dat from `android/data/<game-folder>/files` directory. There will be an extra folder, called `No_Backup`, where you can see the file. I'll give you a warning that editing pp.dat in 2c might result in account ban, so be careful with that
 
 ## Have a great day!
